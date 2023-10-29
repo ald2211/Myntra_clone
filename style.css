@@ -354,6 +354,7 @@ main{
   .spcl_icon,.spcl_icon_2{
     display: none;
   }
+  .nav
   .first_section{
     height: 0px;
   }
@@ -362,6 +363,12 @@ main{
   }
   .first_footer{
     margin-top: 10px;
+  }
+  .ch{
+    display: none !important;
+  }
+  #special{
+    display: none;
   }
 
 }
